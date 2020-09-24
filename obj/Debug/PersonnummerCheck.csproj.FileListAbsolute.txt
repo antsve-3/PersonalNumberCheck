@@ -1,0 +1,14 @@
+C:\Users\antsve-3\source\repos\PersonnummerCheck\bin\Debug\PersonnummerCheck.exe.config
+C:\Users\antsve-3\source\repos\PersonnummerCheck\bin\Debug\PersonnummerCheck.exe
+C:\Users\antsve-3\source\repos\PersonnummerCheck\bin\Debug\PersonnummerCheck.pdb
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.csprojAssemblyReference.cache
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.Form1.resources
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.Properties.Resources.resources
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.csproj.GenerateResource.cache
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.csproj.CoreCompileInputs.cache
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.exe
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.pdb
+C:\Users\antsve-3\source\repos\PersonnummerCheck\bin\Debug\PersonnummerCheck.exe.manifest
+C:\Users\antsve-3\source\repos\PersonnummerCheck\bin\Debug\PersonnummerCheck.application
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.exe.manifest
+C:\Users\antsve-3\source\repos\PersonnummerCheck\obj\Debug\PersonnummerCheck.application
